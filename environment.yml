@@ -1,4 +1,4 @@
-name: mypythonapp
+name: jxh-pixi-learn
 channels:
   - conda-forge
 dependencies:
